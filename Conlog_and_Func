@@ -1,0 +1,13 @@
+let Scrap=0
+
+Function Stuff() [
+Scrap+1
+
+
+
+
+]
+
+console.log (Stuff)
+
+//About:Blank said it was errored 
