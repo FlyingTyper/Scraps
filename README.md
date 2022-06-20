@@ -1,3 +1,4 @@
 # Scraps
 For scraps, and stuff that needs work on.
-Some Stuff may be in other branches.
+Put scraps in ONLY scraps & Needs-Work
+If put in main it will be deleted.
